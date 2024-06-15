@@ -1,0 +1,9 @@
+
+/hands_keypoint_model_l/
+/yolov8l-pose.onnx
+/yolov8s-pose.onnx
+/yolov8s-pose.pt
+
+/hands_keypoint_model_s/
+/results/
+/data/
